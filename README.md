@@ -1,2 +1,2 @@
 # hello-work
-Este repositorio es para practicar el flujo de GitHub.
+Soy un chico que esta empezando en la programacion y que me parece interesante
